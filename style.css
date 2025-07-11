@@ -179,3 +179,23 @@ color: #00000085;
 .review-title {
     margin: 10px 0;
 }
+
+/* section template */
+.focus-template h2{
+    font-weight: bold;
+    font-size: 50px;
+    margin: 10px 0;
+}
+
+.focus-template p{
+    font-size: 16px;
+    color: #00000085;
+    margin-bottom: 20px;
+}
+
+
+.focus-banner img{
+    border-radius: 25px;
+    margin: 20px 0;
+    margin-bottom: 50px;
+}
